@@ -1,2 +1,2 @@
 # DataSciencewithPython
-This repo has the class notes to assignments that kick started my data analytics journey
+This repo has the class notes, assignments and data-sets that kickstarted my data analytics journey. 
